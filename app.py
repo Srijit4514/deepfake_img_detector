@@ -8,7 +8,7 @@ detector = pipeline(
 )
 
 # Path to your local image
-image_path = "C:\\Users\\Personal\\Downloads\\download.jpg"   # <-- CHANGE THIS
+image_path = " "   # <-- Enter your image path here
 
 # Open the image
 img = Image.open(image_path)
